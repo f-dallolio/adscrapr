@@ -18,3 +18,6 @@ Imports:
     tidyxl
 URL: https://github.com/f-dallolio/adscrapr
 BugReports: https://github.com/f-dallolio/adscrapr/issues
+Depends: 
+    R (>= 2.10)
+LazyData: true
