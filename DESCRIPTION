@@ -16,3 +16,5 @@ Imports:
     tibble,
     tidyr,
     tidyxl
+URL: https://github.com/f-dallolio/adscrapr
+BugReports: https://github.com/f-dallolio/adscrapr/issues
